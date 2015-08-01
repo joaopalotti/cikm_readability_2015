@@ -1,9 +1,13 @@
-## Codes and data used for CIKM Readability 2015 short paper
+## Source Code and data used for CIKM Readability 2015 short paper
 [TODO: insert here link to paper]
 
 ### Dependences
-The code used in this work takes advantage of the ReadabilityCalculator python module, that can be downloaded using pip:
+
+The code used in this work takes advantage of the [ReadabilityCalculator python module](https://github.com/joaopalotti/readability_calculator), that can be downloaded using pip:
+```
 $ pip install ReadabilityCalculator
+```
+---------------
 
 ### Data:
 
@@ -15,6 +19,8 @@ It contains the distribution of words and sentences for each preprocessing varia
 
 #### lucene_html.out
 It is the lucene result list based on a default VSM search using the topics from CLEF eHealth 2014.
+
+---------------
 
 ### Code:
 
