@@ -1,5 +1,11 @@
 ## Source Code and data used for CIKM Readability 2015 short paper
-[TODO: insert here link to paper]
+You can obtain the text at: 
+
+1) [ACM](http://dl.acm.org/citation.cfm?id=2806613)
+
+2) [Research Gate](https://www.researchgate.net/publication/311317104_The_Influence_of_Pre-processing_on_the_Estimation_of_Readability_of_Web_Documents)
+
+
 
 ### Dependences
 
